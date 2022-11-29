@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "adi": "kat",
+      "kaytarih": "1669745967263",
+      "duztarih": "1669745967263"
+    }
+  ],
+  "users": [
+    {
+      "id": 3,
+      "adsoyad": "zelx",
+      "mail": "ezel@mail.com",
+      "admin": "1",
+      "parola": "123",
+      "kaytarih": "1669217650108",
+      "duztarih": "1669727564975"
+    },
+    {
+      "id": 4,
+      "adsoyad": "ali ali",
+      "mail": "ali@mail.com",
+      "admin": 0,
+      "parola": "1234",
+      "kaytarih": "1669747323913",
+      "duztarih": "1669747323913"
+    }
+  ]
+}
